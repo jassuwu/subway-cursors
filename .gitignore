@@ -1,0 +1,20 @@
+# build output
+dist/
+*.vsix
+*.tsbuildinfo
+*.map
+
+# deps
+node_modules/
+
+# the game itself — bring your own.
+# subway surfers is sybo / kiloo's IP, not mine to ship.
+game/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# logs
+*.log
